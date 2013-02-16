@@ -8,7 +8,7 @@ ownCloud is extendable via a simple but powerful API for applications and plugin
 more information visit http://ownCloud.org
 
 
-Thanks to all artists of included media!
+Thanks to all creators of used material!
 
 
 Images:
