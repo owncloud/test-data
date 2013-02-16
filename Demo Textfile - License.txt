@@ -8,7 +8,7 @@ ownCloud is extendable via a simple but powerful API for applications and plugin
 more information visit http://ownCloud.org
 
 
-Thanks to all creators of used material!
+>>>Thanks to all creators of used material!<<<
 
 
 ---Images:---
@@ -33,7 +33,7 @@ Demo MP3 - E.J. - Blick Zurück.mp3
 by E.J.
 Creative Commons Attribution-NonCommercial-ShareAlike, http://creativecommons.org/licenses/by-nc-sa/3.0/
 
-brokenkites - parameter reallocation
+/music/brokenkites - parameter reallocation/*
 by Brokenkites
 http://brokenkites.com
 Attribution-NonCommercial-NoDerivs, http://creativecommons.org/licenses/by-nc-nd/3.0/
@@ -57,12 +57,11 @@ Creative Commons Attribution-NonCommercial-ShareAlike, http://creativecommons.or
 
 Demo Presentation - Bored.impress
 by Bartek Szopka
-https://github.com/bartaz
+http://github.com/bartaz
 
 ---Videos:---
 
-Demo Movie OGG - Big Bug Bunny Trailer.ogg
-Demo Movie MOV - Big Bug Bunny Trailer.mov
+Demo Movie OGG - Big Bug Bunny Trailer.ogg, Demo Movie MOV - Big Bug Bunny Trailer.mov
 http://bigbuckbunny.org
 Creative Commons Attribution, http://creativecommons.org/licenses/by/3.0/
 
