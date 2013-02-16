@@ -11,7 +11,7 @@ more information visit http://ownCloud.org
 Thanks to all creators of used material!
 
 
-Images:
+---Images:---
 
 Demo Image - Laser Towards Milky Ways Centre by Yuri Beletsky.jpg
 http://commons.wikimedia.org/wiki/File:Laser_Towards_Milky_Ways_Centre.jpg
@@ -27,7 +27,7 @@ http://www.flickr.com/photos/pixelmurder/
 Creative Commons Attribution-ShareAlike, http://creativecommons.org/licenses/by-sa/3.0/
 
 
-Music:
+---Music:---
 
 Demo MP3 - E.J. - Blick Zurück.mp3
 by E.J.
@@ -39,7 +39,7 @@ http://brokenkites.com
 Attribution-NonCommercial-NoDerivs, http://creativecommons.org/licenses/by-nc-nd/3.0/
 
 
-Code:
+---Code:---
 
 Demo Code - Python.py
 by Albert Sweigart
@@ -59,7 +59,7 @@ Demo Presentation - Bored.impress
 by Bartek Szopka
 https://github.com/bartaz
 
-Videos:
+---Videos:---
 
 Demo Movie OGG - Big Bug Bunny Trailer.ogg
 Demo Movie MOV - Big Bug Bunny Trailer.mov
@@ -67,7 +67,7 @@ http://bigbuckbunny.org
 Creative Commons Attribution, http://creativecommons.org/licenses/by/3.0/
 
 
-Other:
+---Other:---
 
 Demo PDF - Alice's Adventures in Wonderland.pdf
 by Lewis Carroll
