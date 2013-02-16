@@ -21,10 +21,7 @@ Demo Image - Northern Lights by Joshua Strang.jpg
 http://commons.wikimedia.org/wiki/File:Polarlicht_2.jpg
 Public Domain
 
-Demo Image - ccc.jpg
-hacking.jpg
-mate.jpg
-r0ket.jpg
+Demo Image - ccc.jpg, Photos/hacking.jpg, Photos/mate.jpg, Photos/r0ket.jpg
 by Christopher Schirner
 http://www.flickr.com/photos/pixelmurder/
 Creative Commons Attribution-ShareAlike, http://creativecommons.org/licenses/by-sa/3.0/
