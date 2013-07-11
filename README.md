@@ -1,9 +1,10 @@
-test-data
-==========
+# ownCloud test data
 
-A repository for test data.
-It helps with setting up test environments with default data to test and hunt bugs easier.
+Test data repository.
+Provides test data for demo and test environments.
 
 Only upload CC and free content.
 Give credit for uploaded content within the License file.
 Use naming and crediting structure already in use.
+
+# Create Pull Requests for content suggestions.
