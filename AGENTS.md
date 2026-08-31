@@ -1,4 +1,4 @@
-# agents.md — test-data
+# AGENTS.md — test-data
 
 ## Repository Overview
 
